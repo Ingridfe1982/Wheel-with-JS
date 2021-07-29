@@ -1,0 +1,27 @@
+#app{
+display: flex;
+flex-direction: column;
+    position: relative;
+    width: 400px;
+    height: 400px;
+    margin: 0 auto;
+    margin-top: 30px;
+    position: relative;
+
+}
+.fleche {
+    position: absolute;
+    width: 60px;
+    margin-left: 170px;
+    margin-top: 3px;
+
+    z-index: 2;
+}
+.rouefortune {
+    width: 400px;
+    height: 400px;
+}
+.button {
+    margin-top: 20px;;
+}
+
